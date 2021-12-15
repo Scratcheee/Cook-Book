@@ -1,0 +1,25 @@
+{
+  "recipe": [
+    {
+      "id": 1,
+      "name": "Spaghetti with Tomato Sauce",
+      "time": "20",
+      "rating": 4,
+      "description": "A super-quick spaghetti recipe with tomato sauce"
+    },
+    {
+      "id": 2,
+      "name": "Toast Hawaii",
+      "time": 20,
+      "rating": 4,
+      "description": "A super-quick toast recipe with pineapple"
+    },
+    {
+      "id": 3,
+      "name": "Classic Hamburger",
+      "time": 20,
+      "rating": 4,
+      "description": "A super-quick hamburger recipe"
+    }
+  ]
+}
